@@ -1,1 +1,1 @@
-# goit-js-hw-04
+This project is for goIT JavaScript 4th homework.
